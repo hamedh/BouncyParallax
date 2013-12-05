@@ -1,4 +1,4 @@
-#BounceyParallax
+#BouncyParallax
 
 iOS example to create a parallax effect that bounces and grows the top image as you scroll
 
@@ -21,7 +21,7 @@ Latest iOS SDK (7.0+)
 
 ## License
 
-Radio is available under the MIT license. See the LICENSE file for more info.
+BouncyParallax is available under the MIT license. See the LICENSE file for more info.
 
 ## Credits
 
