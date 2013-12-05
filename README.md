@@ -9,7 +9,7 @@ While toying around with parallax for the CNN iPhone app, I came up with a bounc
 <img src="https://raw.github.com/hamedh/BouncyParallax/master/example.gif" width="234"/>
 
 <img src="http://f.cl.ly/items/093E0m0u1r2I2P3O0e20/iPhone5.jpeg"/>
-######Apple iPhone5 Launch Event
+######Apple iPhone5 Launch Event (image from CNET)
 
 ##Usage
 
@@ -26,3 +26,6 @@ BouncyParallax is available under the MIT license. See the LICENSE file for more
 ## Credits
 
 Created by Hamed Hashemi
+
+CNN logo is copyright of TBS
+sample.png is credited to Jeff Turner, Flickr (http://goo.gl/P2IyIM)
