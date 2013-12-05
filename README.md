@@ -28,4 +28,5 @@ BouncyParallax is available under the MIT license. See the LICENSE file for more
 Created by Hamed Hashemi
 
 CNN logo is copyright of TBS
+
 sample.png is credited to Jeff Turner, Flickr (http://goo.gl/P2IyIM)
